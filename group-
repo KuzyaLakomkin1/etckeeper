@@ -75,3 +75,5 @@ lxd:x:135:user
 user:x:1000:
 sambashare:x:136:user
 docker:x:999:
+redis:x:137:
+caddy:x:998:

@@ -75,3 +75,5 @@ lxd:!::user
 user:!::
 sambashare:!::user
 docker:!::
+redis:!::
+caddy:!::
