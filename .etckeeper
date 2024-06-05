@@ -1990,6 +1990,7 @@ maybe chmod 0644 'systemd/user/snap.snapd-desktop-integration.snapd-desktop-inte
 maybe chmod 0755 'systemd/user/sockets.target.wants'
 maybe chmod 0755 'terminfo'
 maybe chmod 0644 'terminfo/README'
+maybe chmod 0644 'test1'
 maybe chmod 0755 'thermald'
 maybe chmod 0644 'thermald/thermal-cpu-cdev-order.xml'
 maybe chmod 0644 'timezone'
