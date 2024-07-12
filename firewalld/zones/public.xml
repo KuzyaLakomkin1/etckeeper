@@ -7,6 +7,5 @@
   <service name="caddy"/>
   <service name="nginx"/>
   <port port="22" protocol="tcp"/>
-  <port port="80" protocol="tcp"/>
   <forward/>
 </zone>
