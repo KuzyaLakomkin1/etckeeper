@@ -21,7 +21,7 @@ tape:x:26:
 sudo:x:27:user
 audio:x:29:pulse
 dip:x:30:user
-www-data:x:33:
+www-data:x:33:caddy
 backup:x:34:
 operator:x:37:
 list:x:38:
@@ -77,3 +77,4 @@ sambashare:x:136:user
 docker:x:999:
 redis:x:137:
 caddy:x:998:
+www:x:1001:
