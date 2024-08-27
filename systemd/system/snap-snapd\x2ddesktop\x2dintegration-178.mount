@@ -1,11 +1,11 @@
 [Unit]
-Description=Mount unit for core22, revision 1380
+Description=Mount unit for snapd-desktop-integration, revision 178
 After=snapd.mounts-pre.target
 Before=snapd.mounts.target
 
 [Mount]
-What=/var/lib/snapd/snaps/core22_1380.snap
-Where=/snap/core22/1380
+What=/var/lib/snapd/snaps/snapd-desktop-integration_178.snap
+Where=/snap/snapd-desktop-integration/178
 Type=squashfs
 Options=nodev,ro,x-gdu.hide,x-gvfs-hide
 LazyUnmount=yes
