@@ -18,7 +18,7 @@ voice:*::
 cdrom:*::user
 floppy:*::
 tape:*::
-sudo:*::user
+sudo:*::user,www
 audio:*::pulse
 dip:*::user
 www-data:*::caddy
